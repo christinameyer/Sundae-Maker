@@ -14,6 +14,11 @@ namespace SundaeMaker
         public Form1()
         {
             InitializeComponent();
+
+            SundaeClass myIceCream = new HotFudgeSundae();
+            myIceCream = new HotFudgeTopping(myIceCream);
+            myIceCream = new PeanutButterCupFlavor(myIceCream);
+            label1.Text = myIceCream.getDescription() + " " + myIceCream.getCost();
         }
     }
 }

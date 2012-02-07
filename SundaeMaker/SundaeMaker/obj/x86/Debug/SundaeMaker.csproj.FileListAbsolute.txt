@@ -1,0 +1,9 @@
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\obj\x86\Debug\SundaeMaker.Properties.Resources.resources
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\bin\Debug\SundaeMaker.exe
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\bin\Debug\SundaeMaker.pdb
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\obj\x86\Debug\SundaeMaker.exe
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\obj\x86\Debug\SundaeMaker.pdb
+C:\Users\christina.meyer\Desktop\Sundae-Maker\SundaeMaker\SundaeMaker\obj\x86\Debug\SundaeMaker.Form1.resources

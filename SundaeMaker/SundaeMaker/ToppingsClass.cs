@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SundaeMaker
 {
-    public abstract class IceCreamFlavors : SundaeClass
+    public abstract class ToppingsClass : SundaeClass
     {
         public abstract override string getDescription();
     }
