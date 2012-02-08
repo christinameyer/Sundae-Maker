@@ -16,5 +16,10 @@ namespace SundaeMaker
         {
             return 4.00;
         }
+
+        public override int getScoops()
+        {
+            return 3;
+        }
     }
 }

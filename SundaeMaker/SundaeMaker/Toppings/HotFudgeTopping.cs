@@ -23,5 +23,10 @@ namespace SundaeMaker
         {
             return currentSundae.getCost() + .50;
         }
+
+        public override int getScoops()
+        {
+            return currentSundae.getScoops();
+        }
     }
 }

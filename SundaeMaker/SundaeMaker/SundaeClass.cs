@@ -15,6 +15,8 @@ namespace SundaeMaker
         }
 
         public abstract double getCost();
+
+        public abstract int getScoops();
     }
 
 }
